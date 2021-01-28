@@ -1,20 +1,11 @@
-var app = require('express')();
-var http = require('http').createServer(app);
-var gpio = require('onoff').Gpio;
-var io = require('socket.io')(http);
+
+const gpio = require('onoff').Gpio;
 const sensor = require('ds18b20-raspi');
 
 const LED_id = [17, 18, 27, 22, 23, 24, 25, 5, 6, 13, 19, 26, 12, 16];
-var LED = [];
+const LED = [];
 
-app.get('/', (req, res) => {
-  res.sendFile(__dirname + '/index.html');
-});
-
-http.listen(8080, () => {
-  
-});
-
+const time=5; //sec
 
 LED_id.forEach((e,i)=>{
     LED.push(new gpio(e, 'out'));
@@ -24,7 +15,7 @@ LED_id.forEach((e,i)=>{
 
 
 temp();
-setInterval(temp, 60000);
+setInterval(temp, time*1000);
 
 function temp(){
   tab = [];  
