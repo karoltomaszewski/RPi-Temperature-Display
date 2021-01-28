@@ -8,8 +8,6 @@
 * [Setup](#setup)
 * [Features](#features)
 * [Status](#status)
-* [Inspiration](#inspiration)
-* [Contact](#contact)
 
 ## General info
 Application that monitors the ambient temperature. Displays the value on the device console (on the Raspberry Pi) and on the display.
