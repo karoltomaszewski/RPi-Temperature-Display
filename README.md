@@ -26,7 +26,8 @@ Application that monitors the ambient temperature. Displays the value on the dev
 
 ## Setup
 
-Setup software:
+Setup software is simple. You have to clone the repo on your RPi and then in console:
+> cd RPi-Temperature-Display  
 > npm install  
 > node app.js
 
