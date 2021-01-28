@@ -6,6 +6,7 @@
 * [Hardware](#hardware)
 * [Screenshots and photos](#screenshots-and-photos)
 * [Setup](#setup)
+* [Default behavior](#default-behavior)
 * [Status](#status)
 
 ## General info
@@ -30,6 +31,12 @@ cd RPi-Temperature-Display
 npm install  
 node app.js
 ```
+
+## Default behavior
+
+The temperature is monitored every 5 seconds by default.  
+You can change this by changing the value of the variable `time`.
+
 
 ## Status
 Project is: _finished_
