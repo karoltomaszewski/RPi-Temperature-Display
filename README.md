@@ -35,7 +35,7 @@ node app.js
 
 ## Default Behaviour
 The temperature is monitored every 5 seconds by default.  
-You can change this by changing the value of the variable 'time'.
+You can change this by changing the value of the variable `time`.
 
 ## Features
 List of features ready and TODOs for future development
