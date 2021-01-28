@@ -1,4 +1,4 @@
-# RPi-Temperature-Display
+# `RPi-Temperature-Display`
 > Node.js and Raspberry Pi project.
 
 ## Table of contents
@@ -6,7 +6,6 @@
 * [Hardware](#hardware)
 * [Screenshots and photos](#screenshots-and-photos)
 * [Setup](#setup)
-* [Features](#features)
 * [Status](#status)
 
 ## General info
