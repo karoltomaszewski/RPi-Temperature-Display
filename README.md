@@ -25,7 +25,10 @@ Application that monitors the ambient temperature. Displays the value on the dev
 ![Example screenshot](./img/screenshot.png)
 
 ## Setup
-Describe how to install / setup your local environement / add link to demo version.
+
+Setup software:
+> npm install  
+> node app.js
 
 ## Code Examples
 Show examples of usage:
