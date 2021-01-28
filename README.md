@@ -18,6 +18,7 @@ Application that monitors the ambient temperature. Displays the value on the dev
 * Temperature sensor DS18B20 - digital 1-wire THT
 * Some resistors (I'm using 100Ω)
 * Resistor 4700Ω
+* Breadboard
 
 ## Screenshots and photos
 ![Example screenshot](./img/screenshot.png)
