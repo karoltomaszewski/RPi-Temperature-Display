@@ -10,7 +10,7 @@
 * [Status](#status)
 
 ## General info
-Application that monitors the ambient temperature. Displays the value on the device console (on the Raspberry Pi) and on the display.
+Application that monitors the ambient temperature. Displays the value on the device console (on the Raspberry Pi) and on the 7-segment display x2.
 
 ## Hardware
 * Raspberry Pi (I'm using a Raspberry Pi 4 Model B 8GB)
