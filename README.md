@@ -1,10 +1,10 @@
 # RPI-Temperature-display
-> Node.js and Raspberry PI project.
+> Node.js and Raspberry Pi project.
 
 ## Table of contents
 * [General info](#general-info)
 * [Hardware](#hardware)
-* [Screenshots](#screenshots)
+* [Screenshots and photos](#screenshots-and-photos)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Features](#features)
@@ -18,10 +18,11 @@ Application that monitors the ambient temperature. Displays the value on the dev
 ## Hardware
 * Raspberry Pi (I'm using a Raspberry Pi 4 Model B 8GB)
 * 7-segment display x2 - 10mm red - common cathode
+* Temperature sensor DS18B20 - digital 1-wire THT
 * Some resistors (I'm using 100Ω)
-* 1 resistor 4700Ω
+* Resistor 4700Ω
 
-## Screenshots
+## Screenshots and photos
 ![Example screenshot](./img/screenshot.png)
 
 ## Technologies
