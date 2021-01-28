@@ -32,6 +32,9 @@ npm install
 node app.js
 ```
 
+### Setup hardware
+Setup hardware is more complex.
+
 ## Default behavior
 
 The temperature is monitored every 5 seconds by default.  
