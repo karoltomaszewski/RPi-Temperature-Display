@@ -5,7 +5,6 @@
 * [General info](#general-info)
 * [Hardware](#hardware)
 * [Screenshots and photos](#screenshots-and-photos)
-* [Technologies](#technologies)
 * [Setup](#setup)
 * [Features](#features)
 * [Status](#status)
@@ -24,11 +23,6 @@ Application that monitors the ambient temperature. Displays the value on the dev
 
 ## Screenshots and photos
 ![Example screenshot](./img/screenshot.png)
-
-## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
 
 ## Setup
 Describe how to install / setup your local environement / add link to demo version.
