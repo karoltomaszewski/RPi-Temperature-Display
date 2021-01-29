@@ -34,7 +34,7 @@ node app.js
 ```
 
 ### Setup hardware
-Setup hardware is more complex.
+Setup hardware is more complex. Read about it in the file 'RPi-Temperature-Display Setup Hardware.pdf'.
 
 ## Default behavior
 
