@@ -21,8 +21,7 @@ Application that monitors the ambient temperature. Displays the value on the dev
 * Breadboard
 
 ## Photo 
-![Example screenshot](./img/screenshot.png)
-
+![Example screenshot](./Photo.jpg)
 ## Setup
 
 ### Setup software
