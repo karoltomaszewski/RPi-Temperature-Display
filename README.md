@@ -4,7 +4,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Hardware](#hardware)
-* [Screenshots and photos](#screenshots-and-photos)
+* [Photo](#photo)
 * [Setup](#setup)
 * [Default behavior](#default-behavior)
 * [Status](#status)
@@ -20,7 +20,7 @@ Application that monitors the ambient temperature. Displays the value on the dev
 * Resistor 4700Ω
 * Breadboard
 
-## Screenshots and photos
+## Photo 
 ![Example screenshot](./img/screenshot.png)
 
 ## Setup
